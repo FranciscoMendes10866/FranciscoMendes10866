@@ -5,7 +5,7 @@ I'm a Frontend Developer who is passionate about making web apps easier to use. 
 
 ## 🌱 I’m currently learning:
 
-Github Actions, Google Cloud Platform and Micro-services.
+Github Actions, Google Cloud Platform and microservices.
 
 ## 🔭 I’m currently working on:
 
