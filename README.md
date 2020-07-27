@@ -13,4 +13,4 @@ Building my portfolio and my portfolio website.
 
 ## 📫 How to reach me:
 
-https://locise.vercel.app/#/
+<a href="https://locise.vercel.app" target="blank">My Links 🔥</a>
