@@ -5,7 +5,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. Some 
 
 ## 🌱 I’m currently learning:
 
-Go, Redis and Kubernetes.
+Styled Components, Go, Redis and Kubernetes.
 
 ## 🔭 I’m currently working on:
 
