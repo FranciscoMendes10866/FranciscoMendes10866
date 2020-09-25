@@ -5,11 +5,11 @@ I'm a Web Developer who is passionate about making web apps easier to use. Some 
 
 ## 🌱 I’m currently learning:
 
-Dokku, VPS and Go.
+Go, Redis and Kubernetes.
 
 ## 🔭 I’m currently working on:
 
-Building my portfolio and my portfolio website.
+Building random small projects to learn something new every day.
 
 ## 📫 How to reach me:
 
