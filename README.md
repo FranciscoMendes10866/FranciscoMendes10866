@@ -5,11 +5,11 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 ## 🔭 I’m currently learning:
 
-GCP, Pulumi, Ansible ,Jenkins and Docker Swarm.
+GCP, Pulumi, Ansible, Jenkins and Docker Swarm.
 
 ## 🎃 Favorite technologies:
 
-Vue, Nuxt, Tailwind, Bulma, Express, Fiber, Prisma and Docker.
+Vue, Nuxt, Tailwind, Bulma, Express, Fiber, Prisma, Git, Docker and Linux!
 
 ## 🔥 Favorite languages:
 
