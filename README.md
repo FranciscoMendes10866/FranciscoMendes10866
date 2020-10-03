@@ -5,7 +5,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. Some 
 
 ## 🌱 I’m currently learning:
 
-GCP, Pulumi, Go and Docker Swarm.
+GCP, Pulumi, Ansible ,Jenkins and Docker Swarm.
 
 ## 🔭 I’m currently working on:
 
