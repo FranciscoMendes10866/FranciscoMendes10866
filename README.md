@@ -5,11 +5,11 @@ I'm a Web Developer who is passionate about making web apps easier to use. Some 
 
 ## 🌱 I’m currently learning:
 
-Styled Components, Go, Redis and Kubernetes.
+GCP, Pulumi, Go and Docker Swarm.
 
 ## 🔭 I’m currently working on:
 
-Building random small projects to learn something new every day.
+Building random projects to improve my skills and discover new challenges.
 
 ## 📫 How to reach me:
 
