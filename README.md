@@ -5,7 +5,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 ## 🔭 I’m currently learning:
 
-GCP, Pulumi, Ansible, Jenkins and Docker Swarm.
+Terraform, Ansible, Github Actions, Docker Swarm and Serverless.
 
 ## 🎃 Favorite technologies:
 
