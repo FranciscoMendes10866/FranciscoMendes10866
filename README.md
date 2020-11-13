@@ -5,7 +5,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 ## 🔭 I’m currently learning:
 
-React and Redux.
+React, Redux and Styled Components.
 
 ## 🎃 Favorite technologies:
 
