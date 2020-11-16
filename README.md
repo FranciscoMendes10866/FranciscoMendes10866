@@ -9,7 +9,7 @@ React, Context & Hooks and Styled Components.
 
 ## 🎃 Favorite technologies:
 
-Vue, Nuxt, Tailwind, Bulma, Express, Fiber, Prisma, Git, Docker and Linux!
+Vue, Nuxt, React, Next, Tailwind, Bulma, Express, Fiber, Prisma, Git, Docker and Linux!
 
 ## 🔥 Favorite languages:
 
