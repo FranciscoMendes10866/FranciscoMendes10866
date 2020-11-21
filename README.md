@@ -5,11 +5,11 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 ## 🔭 I’m currently learning:
 
-Redux.
+Redux and Framer Motion.
 
 ## 🎃 Favorite technologies:
 
-Vue, Nuxt, React, Tailwind, Bulma, Express, Fiber, Prisma, Git, Docker and Linux!
+Vue, Nuxt, React, Styled Components, Tailwind, Bulma, Express, Fiber, Prisma, Git, Docker and Linux!
 
 ## 🔥 Favorite languages:
 
