@@ -4,12 +4,9 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 <details>
  <summary>🔭 I’m currently learning:</summary>
- - [x] React Query
- - [ ] Framer Motion
- - [ ] Data Structures
- - [ ] Agile Development
- - [ ] Testing
- - [ ] CI/CD
+ <ul>
+  <li> - [x] React Query</li>
+ </ul>
 </details>
 
 ## 🎃 Favorite technologies:
