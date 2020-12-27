@@ -5,28 +5,25 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 
 ## 🔭 I’m currently learning:
 
-[x] React Query
-[ ] Framer Motion
-[ ] Data Structures
-[ ] Agile Development
-[ ] Testing
-[ ] CI/CD
+- [x] React Query
+- [ ] Framer Motion
+- [ ] Data Structures
+- [ ] Agile Development
+- [ ] Testing
+- [ ] CI/CD
 
 ## 🎃 Favorite technologies:
 
-#Frontend:
-
+# Frontend
 * React
   * Context API
   * Redux
   * React Query
   * Zustand
-  
 * Vue
   * Vuex
   * Nuxt
   * Composition API
-  
 * Styling
   * CSS3
   * SCSS
@@ -37,12 +34,10 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
     * Tailwind
   
 # Backend
-
 * Node
   * Express
   * Prisma
   * Json Web Token
-
 * Golang
   * Fiber
   * GORM
@@ -50,7 +45,6 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
   * Json Web Token 
   
 # More
-
 * Git
 * Docker
 * Linux
