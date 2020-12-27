@@ -2,15 +2,15 @@
 
 I'm a Web Developer who is passionate about making web apps easier to use. I genuinely like to code things from scratch, bringing ideas to life in the browser and I value a simple content structure with clean, smart design patterns. My interest in the Node ecosystem made me fall in love with the art of programming.
 
-
-## 🔭 I’m currently learning:
-
-- [x] React Query
-- [ ] Framer Motion
-- [ ] Data Structures
-- [ ] Agile Development
-- [ ] Testing
-- [ ] CI/CD
+<details>
+ <summary>🔭 I’m currently learning:</summary>
+ - [x] React Query
+ - [ ] Framer Motion
+ - [ ] Data Structures
+ - [ ] Agile Development
+ - [ ] Testing
+ - [ ] CI/CD
+</details>
 
 ## 🎃 Favorite technologies:
 
