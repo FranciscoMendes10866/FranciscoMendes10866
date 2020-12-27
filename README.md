@@ -8,7 +8,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
         <li>- [x] React Query</li>
         <li>- [ ] Framer Motion</li>
         <li>- [ ] Data Structures</li>
-        <li>- [ ] Agile Development</li>
+        <li>- [x] Agile Development</li>
         <li>- [ ] Testing</li>
         <li>- [ ] CI/CD</li>
     </ul>
