@@ -46,7 +46,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
         <li>Prisma</li>
         <li>Json Web Token</li>
     </ul>
-    <p>Node</p>
+    <p>Golang</p>
     <ul>
         <li>Fiber</li>
         <li>GORM</li>
