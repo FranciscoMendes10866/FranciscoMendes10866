@@ -64,6 +64,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
  <summary>🔥 Favorite languages:</summary>
     <ul>
         <li>JavaScript</li>
+        <li>TypeScript</li>
         <li>Golang</li>
     </ul>
 </details>
