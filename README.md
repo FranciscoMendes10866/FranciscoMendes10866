@@ -21,14 +21,6 @@ Hi, I'm Francisco Mendes!, a passionate self-taught Full Stack Web Developer. ðŸ
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-```js
-const frontend = ["reactjs", "nextjs", , "redux", "react-query", "styled-components", "tailwindcss"]
-const backend = ["expressjs", "jwt", , "prisma-orm", "postgresql", "mongodb"]
-const tools = ["git", "linux", , "docker"]
-
-<TechStack client={frontend} api={backend} tools={tools} />
-```
-
 ![visitors](https://counter.gofiber.io/badge/FranciscoMendes10866/FranciscoMendes10866)
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=33)
