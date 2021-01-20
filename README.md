@@ -25,11 +25,11 @@ Hi, I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. üç
 
 <p>
   
-  ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+  ![Cypress](https://img.shields.io/badge/-Cypress-%231a202c?style=flat-square&logo=cypress)
   ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
   ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+  ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-%231a202c?style=flat-square&logo=framer)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234B32C3?style=flat-square&logo=postgresql)
   ![Vercel](https://img.shields.io/badge/-VERCEL-%231a202c?style=flat-square&logo=vercel)
   
