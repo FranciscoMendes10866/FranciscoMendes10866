@@ -1,6 +1,9 @@
 # Hi, I'm Francisco 👋
-
-| #reactjs #nextjs #redux #react-query #styled-components #tailwindcss #expressjs #jwt #prisma-orm #postgresql #mongodb #git #linux #docker /> |
+#git #linux #docker
+| const frontend = ["reactjs", "nextjs", , "redux", "react-query", "styled-components", "tailwindcss"] |
+| const backend = ["expressjs", "jwt", , "prisma-orm", "postgresql", "mongodb"] |
+| const tools = ["git", "linux", , "docker"] |
+| <TechStack client={frontend} api={backend} tools={tools} /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![visitors](https://counter.gofiber.io/badge/FranciscoMendes10866/FranciscoMendes10866)
