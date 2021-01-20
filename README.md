@@ -2,7 +2,7 @@
 
 Hi, I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 
-<h3>A little of my Tech Stack: 🍭</h3>
+<h3>A little of my Tech Stack 🍭</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
