@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-Hi, I'm Francisco Mendes!, a passionate self-taught Full Stack Web Developer. 🍪
+Hi, I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 
 <h3>A little of my Tech Stack: 🍭</h3>
 <p>
