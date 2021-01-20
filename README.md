@@ -1,11 +1,11 @@
 # Hi, I'm Francisco 👋
-| ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=27) |
+| ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=27) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html&theme=tokyonight) |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![visitors](https://counter.gofiber.io/badge/FranciscoMendes10866/FranciscoMendes10866) |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html&theme=tokyonight)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=cotaku&theme=tokyonight)](https://github.com/FranciscoMendes10866/cotaku)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=pwnag&theme=tokyonight)](https://github.com/FranciscoMendes10866/pwnag)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=venu&theme=tokyonight)](https://github.com/FranciscoMendes10866/venu)
