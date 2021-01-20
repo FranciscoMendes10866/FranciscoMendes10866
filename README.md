@@ -5,10 +5,7 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
 <details>
  <summary>🔭 I’m currently learning:</summary>
     <ul>
-        <li>- [x] React Query</li>
         <li>- [ ] Framer Motion</li>
-        <li>- [x] Agile Development</li>
-        <li>- [X] Testing</li>
         <li>- [ ] CI/CD</li>
     </ul>
 </details>
@@ -18,39 +15,21 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
     <h3>Frontend</h3>
     <p>React</p>
     <ul>
-        <li>Context API</li>
         <li>Redux</li>
         <li>React Query</li>
         <li>Zustand</li>
     </ul>
-    <p>Vue</p>
-    <ul>
-        <li>Vuex</li>
-        <li>Nuxt</li>
-        <li>Composition API</li>
-    </ul>
     <p>Styling</p>
     <ul>
-        <li>CSS3</li>
-        <li>SCSS</li>
         <li>Styled Components</li>
-        <li>Bootstrap</li>
-        <li>Bulma</li>
-        <li>Tailwind</li>
+        <li>Tailwind CSS</li>
     </ul>
     <h3>Backend</h3>
     <p>Node</p>
     <ul>
-        <li>Express</li>
-        <li>Prisma</li>
-        <li>Json Web Token</li>
-    </ul>
-    <p>Golang</p>
-    <ul>
-        <li>Fiber</li>
-        <li>GORM</li>
-        <li>Prisma</li>
-        <li>Json Web Token</li>
+        <li>Express.js</li>
+        <li>Prisma ORM</li>
+        <li>Json Web Tokens</li>
     </ul>
     <h3>More</h3>
     <ul>
@@ -65,6 +44,5 @@ I'm a Web Developer who is passionate about making web apps easier to use. I gen
     <ul>
         <li>JavaScript</li>
         <li>TypeScript</li>
-        <li>Golang</li>
     </ul>
 </details>
