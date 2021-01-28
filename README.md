@@ -11,6 +11,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FFA500?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 <p>
@@ -21,6 +22,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-3299FF?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-722f37?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
 <p>
