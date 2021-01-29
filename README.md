@@ -35,6 +35,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
   ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-%231a202c?style=flat-square&logo=framer)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234B32C3?style=flat-square&logo=postgresql)
   ![Vercel](https://img.shields.io/badge/-VERCEL-%231a202c?style=flat-square&logo=vercel)
+  ![JWT](https://img.shields.io/badge/-JWT-%231a202c?style=flat-square&logo=auth0&logoColor=white)
   
 </p>
 
