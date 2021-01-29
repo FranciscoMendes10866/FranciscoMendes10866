@@ -20,9 +20,10 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-3299FF?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-722f37?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
 <p>
