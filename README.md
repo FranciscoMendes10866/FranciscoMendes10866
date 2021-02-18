@@ -40,6 +40,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html&theme=tokyonight&line_height=27)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=cotaku&theme=tokyonight)](https://github.com/FranciscoMendes10866/cotaku)
