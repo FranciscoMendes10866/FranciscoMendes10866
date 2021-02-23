@@ -21,7 +21,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-3299FF?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
 </p>
@@ -29,14 +29,13 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 <p>
   
   ![Cypress](https://img.shields.io/badge/-Cypress-%231a202c?style=flat-square&logo=cypress)
-  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+  ![Yarn](https://img.shields.io/badge/-Yarn-%23007ACC?style=flat-square&logo=yarn&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%231a202c?style=flat-square&logo=tailwind-css)
   ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
   ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-%231a202c?style=flat-square&logo=framer)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234B32C3?style=flat-square&logo=postgresql)
   ![Vercel](https://img.shields.io/badge/-VERCEL-%231a202c?style=flat-square&logo=vercel)
   ![JWT](https://img.shields.io/badge/-JWT-%231a202c?style=flat-square&logo=auth0&logoColor=white)
-  
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
