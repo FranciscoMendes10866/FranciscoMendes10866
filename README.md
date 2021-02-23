@@ -52,7 +52,7 @@ I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=careel-backend&theme=tokyonight)](https://github.com/FranciscoMendes10866/careel-backend)
 
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+How I feel debugging the code 🍌
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
