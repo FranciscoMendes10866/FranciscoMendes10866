@@ -7,6 +7,7 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
 <h3>My Tech Stack 🍭</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FFA500?style=flat-square&logo=react&logoColor=white" />
@@ -16,7 +17,7 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="grpc" src="https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=apache-kafka&logoColor=FF8000" />
+  <img alt="grpc" src="https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=apache-kafka&logoColor=008b8b" />
 </p>
 
 <p>
