@@ -54,7 +54,7 @@ I'm a big fan of Open Source and a lover of Node.js.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=careel-backend&theme=tokyonight)](https://github.com/FranciscoMendes10866/careel-backend)
 
 
-<h3>How I feel debugging my code 🍌</h3>
+<h3>When the error is unknown 🍌</h3>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
