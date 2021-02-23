@@ -37,8 +37,8 @@ I'm a big fan of Open Source and a lover of Node.js.
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=Netlify&logoColor=1FD5ED" />
   <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-041231?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
