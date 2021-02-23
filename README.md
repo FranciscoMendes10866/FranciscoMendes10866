@@ -21,7 +21,7 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
 </p>
 
 <p>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Rest" src="https://img.shields.io/badge/-Restful-36454f?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-23B223?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
