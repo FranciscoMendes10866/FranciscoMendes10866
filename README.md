@@ -16,6 +16,7 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="grpc" src="https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=apache-kafka&logoColor=FF8000" />
 </p>
 
 <p>
@@ -23,10 +24,10 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-23B223?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
