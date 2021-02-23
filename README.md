@@ -32,6 +32,7 @@ I'm a big fan of Open Source and a lover of Node.js.
 
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-white?style=flat-square&logo=Prometheus&logoColor=FF8000" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-4C87C1?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=Netlify&logoColor=1FD5ED" />
@@ -39,7 +40,6 @@ I'm a big fan of Open Source and a lover of Node.js.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-041231?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-white?style=flat-square&logo=Prometheus&logoColor=FF8000" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
