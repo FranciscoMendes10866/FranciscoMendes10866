@@ -39,6 +39,7 @@ I'm a big fan of Open Source and a lover of Node.js.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-041231?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
+  <img alt="Cookies" src="https://img.shields.io/badge/-Cookies-660A11?style=flat-square&logo=auth0&logoColor=white" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
