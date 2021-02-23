@@ -31,15 +31,14 @@ I'm a big fan of Open Source and a lover of Node.js.
 </p>
 
 <p>
-  
-  ![Cypress](https://img.shields.io/badge/-Cypress-%231a202c?style=flat-square&logo=cypress)
-  ![Yarn](https://img.shields.io/badge/-Yarn-%23007ACC?style=flat-square&logo=yarn&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%231a202c?style=flat-square&logo=tailwind-css)
-  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-  ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-%231a202c?style=flat-square&logo=framer)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234B32C3?style=flat-square&logo=postgresql)
-  ![Vercel](https://img.shields.io/badge/-VERCEL-%231a202c?style=flat-square&logo=vercel)
-  ![JWT](https://img.shields.io/badge/-JWT-%231a202c?style=flat-square&logo=auth0&logoColor=white)
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-0054A7?style=flat-square&logo=Yarn&logoColor=white" />
+  <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=Netlify&logoColor=1FD5ED" />
+  <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-5385AA?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-041231?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
