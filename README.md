@@ -10,7 +10,7 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FFA500?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FFA500?style=flat-square&logo=react&logoColor=black" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
