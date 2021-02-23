@@ -2,7 +2,7 @@
 
 I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
 <h3>My Tech Stack 🍭</h3>
 <p>
