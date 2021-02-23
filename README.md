@@ -2,6 +2,8 @@
 
 I'm Francisco Mendes! a passionate self-taught Full Stack Web Developer. 🍪
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <h3>My Tech Stack 🍭</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
