@@ -1,8 +1,8 @@
 <h1>Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-I'm ***Francisco Mendes***! A passionate and self-taught ***Full Stack Web developer***.
+I'm **Francisco Mendes**! A passionate and self-taught **Full Stack Web developer**.
 
-I'm a big fan of ***Open Source*** and a lover of Node.js.
+I'm a big fan of **Open Source** and a lover of Node.js.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
