@@ -32,7 +32,7 @@ I'm a big fan of Open Source and a lover of Node.js.
 
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-0054A7?style=flat-square&logo=Yarn&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-4C87C1?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=Netlify&logoColor=1FD5ED" />
   <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
