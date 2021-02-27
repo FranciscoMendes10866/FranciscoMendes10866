@@ -30,12 +30,11 @@ I'm a big fan of **Open Source** and a lover of **Node.js**.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
-  <img alt="supertest" src="https://img.shields.io/badge/-supertest-white?style=flat-square&logo=mocha&logoColor=FF8000" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-4C87C1?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=Netlify&logoColor=1FD5ED" />
