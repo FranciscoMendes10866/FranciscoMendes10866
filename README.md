@@ -52,7 +52,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=thirsy&theme=tokyonight)](https://github.com/FranciscoMendes10866/venu)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=stiind&theme=tokyonight)](https://github.com/FranciscoMendes10866/stiind)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=gridbit&theme=tokyonight)](https://github.com/FranciscoMendes10866/gridbit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=careel-backend&theme=tokyonight)](https://github.com/FranciscoMendes10866/careel-backend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=charal&theme=tokyonight)](https://github.com/FranciscoMendes10866/careel-backend)
 
 
 <h3>When the error is unknown 🍌</h3>
