@@ -22,7 +22,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <p>
   <img alt="Express" src="https://img.shields.io/badge/-Express-F2F2F2?style=flat-square&logo=express&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="ELK" src="https://img.shields.io/badge/-ELK_Stack-ffd500?style=flat-square&logo=elastic&logoColor=black" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-ffd500?style=flat-square&logo=elastic&logoColor=black" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-23B223?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Emotion" src="https://img.shields.io/badge/-Emotion-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
