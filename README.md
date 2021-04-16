@@ -16,7 +16,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-ff3b00?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/-React_Native-198CFF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go&logoColor=00bfff" />
 </p>
 
 <p>
