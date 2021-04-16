@@ -10,13 +10,14 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/-Node-23B223?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-004576?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-ff3b00?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Golang-00bfff?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-23B223?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Vultr" src="https://img.shields.io/badge/-Vultr-0000e4?style=flat-square&logo=vultr&logoColor=white" />
 </p>
 
 <p>
