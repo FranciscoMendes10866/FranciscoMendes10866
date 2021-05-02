@@ -47,7 +47,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <h3>Statistics and Projects 🥖</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html, php, SCSS DOckerfile&theme=tokyonight&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html, php, scss, Dockerfile&theme=tokyonight&line_height=27)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=cotaku&theme=tokyonight)](https://github.com/FranciscoMendes10866/cotaku)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=pwnag&theme=tokyonight)](https://github.com/FranciscoMendes10866/pwnag)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=thirsy&theme=tokyonight)](https://github.com/FranciscoMendes10866/thirsy)
