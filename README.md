@@ -26,6 +26,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
 </p>
 
 <p>
@@ -36,7 +37,6 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
   <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
