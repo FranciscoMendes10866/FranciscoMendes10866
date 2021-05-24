@@ -11,21 +11,17 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-041231?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-ff3b00?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-23B223?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Vultr" src="https://img.shields.io/badge/-Vultr-0000e4?style=flat-square&logo=vultr&logoColor=white" />
 </p>
 
 <p>
   <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-050505?style=flat-square&logo=fastify&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-ffd500?style=flat-square&logo=elastic&logoColor=black" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-23B223?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Emotion" src="https://img.shields.io/badge/-Emotion-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
@@ -35,7 +31,6 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <p>
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-4C87C1?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-white?style=flat-square&logo=bulma&logoColor=1FD5ED" />
   <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
