@@ -19,7 +19,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 </p>
 
 <p>
-  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-050505?style=flat-square&logo=fastify&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-050505?style=flat-square&logo=nestjs&logoColor=ff0000" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-23B223?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
