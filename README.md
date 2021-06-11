@@ -21,10 +21,10 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-050505?style=flat-square&logo=nestjs&logoColor=ff0000" />
   <img alt="Caddy" src="https://img.shields.io/badge/-Caddy-white?style=flat-square&logo=protonMail&logoColor=00b300" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma_ORM-white?style=flat-square&logo=prisma&logoColor=black" />
 </p>
