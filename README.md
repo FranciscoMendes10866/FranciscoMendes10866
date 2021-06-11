@@ -26,7 +26,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=prisma&logoColor=black" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma_ORM-white?style=flat-square&logo=prisma&logoColor=black" />
 </p>
 
 <p>
