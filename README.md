@@ -19,7 +19,7 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 </p>
 
 <p>
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-050505?style=flat-square&logo=nestjs&logoColor=ff0000" />
+  <img alt="AdonisJS" src="https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" />
   <img alt="Caddy" src="https://img.shields.io/badge/-Caddy-white?style=flat-square&logo=protonMail&logoColor=00b300" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
