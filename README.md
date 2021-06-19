@@ -33,7 +33,6 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/-JWT-041231?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
   <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
