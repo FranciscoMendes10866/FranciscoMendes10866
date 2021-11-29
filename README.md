@@ -9,43 +9,33 @@ I'm a big fan of **Open Source** and a **Node.js** lover.
 <h3>My Tech Stack 🍭</h3>
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-198CFF?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-ff3b00?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-<p>
-  <img alt="rabbitmq" src="https://img.shields.io/badge/-RabbitMQ-FF8400?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Caddy" src="https://img.shields.io/badge/-Caddy-white?style=flat-square&logo=protonMail&logoColor=00b300" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-BF1F00?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma_ORM-white?style=flat-square&logo=prisma&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
 </p>
 
 <p>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-BF0040?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-01050F?style=flat-square&logo=Cypress&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css&logoColor=1FD5ED" />
-  <img alt="Framer" src="https://img.shields.io/badge/-Framer_Motion-03102B?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="WindiCSS" src="https://img.shields.io/badge/-Windi_CSS-48B0F1?style=flat-square&logo=windi-css&logoColor=fff" />
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=fff" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff" />
+  <img alt="MobX" src="https://img.shields.io/badge/-MobX-FF7102?style=flat-square&logo=mobx&logoColor=fff" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html,php,scss,Dockerfile,python&theme=tokyonight&line_height=27)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=cotaku&theme=tokyonight)](https://github.com/FranciscoMendes10866/cotaku)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=agraph&theme=tokyonight)](https://github.com/FranciscoMendes10866/agraph)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=thirsy&theme=tokyonight)](https://github.com/FranciscoMendes10866/thirsy)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=stiind&theme=tokyonight)](https://github.com/FranciscoMendes10866/stiind)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html,php,scss,Dockerfile,python,shell&theme=tokyonight&line_height=27)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=gridbit&theme=tokyonight)](https://github.com/FranciscoMendes10866/gridbit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=recons&theme=tokyonight)](https://github.com/FranciscoMendes10866/recons)
 
