@@ -1,8 +1,12 @@
 <h1>Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-I'm **Francisco Mendes**! A passionate and self-taught **Full Stack Web developer**.
+I'm **Francisco Mendes**! A passionate Full Stack Web developer with a focus on user experience.
 
-I'm a big fan of **Open Source** and a **Node.js** lover.
+My mission is to build products that users love to use as well as help clients expand their business. 
+
+And I get to do it alongside an amazing [team](https://mosano.eu/) of talented people in one of the most vibrant countries in the world.
+
+In my spare time, you can find me writing articles on [DEV](https://dev.to/franciscomendes10866).
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
