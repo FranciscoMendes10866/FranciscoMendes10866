@@ -39,7 +39,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
 <h3>Statistics and Projects 🥖</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoMendes10866&show_icons=true&theme=tokyonight&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,html,php,scss,Dockerfile,python,shell&theme=tokyonight&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMendes10866&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell&theme=tokyonight&line_height=27)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=gridbit&theme=tokyonight)](https://github.com/FranciscoMendes10866/gridbit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoMendes10866&repo=recons&theme=tokyonight)](https://github.com/FranciscoMendes10866/recons)
 
