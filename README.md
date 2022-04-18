@@ -4,6 +4,7 @@ I'm **Francisco Mendes**! A passionate Full Stack Web developer with a focus on 
 My mission is to build products that users love to use as well as help clients expand their business. 
 And I get to do it alongside an amazing [team](https://mosano.eu/) of talented people in one of the most vibrant countries in the world.
 In my spare time, you can find me writing articles on [DEV](https://dev.to/franciscomendes10866).
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
 ![gopher dancing](./dancing-gopher.gif)
