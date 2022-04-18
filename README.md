@@ -10,6 +10,8 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
 
+![gopher dancing](./dancing-gopher.gif)
+
 <h3>My Tech Stack 🍭</h3>
 
 <p>
