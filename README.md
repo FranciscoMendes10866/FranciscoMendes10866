@@ -70,5 +70,6 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+<br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
