@@ -13,7 +13,7 @@
     ![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoMendes10866)
   </div>
   <div>
-    ![gopher dancing animation loop](./dancing-gopher.gif)
+    ![gopher dancing](./dancing-gopher.gif)
   </div>
 </div>
 
