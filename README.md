@@ -1,4 +1,4 @@
-<h1>Hallo! 👋 Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>Hallo! 👋 Nice to see you.</h1>
 
 I'm **Francisco Mendes**! A passionate Full Stack Web developer with a focus on user experience. 
 My mission is to build products that users love to use as well as help clients expand their business. 
