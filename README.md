@@ -1,4 +1,4 @@
-<h1>Hallo! 👋 Nice to see you 😊</h1>
+<h2>Hallo! 👋 Nice to see you 😊</h2>
 
 I'm **Francisco Mendes**! A passionate Full Stack Web developer with a focus on user experience. 
 My mission is to build products that users love to use as well as help clients expand their business. 
