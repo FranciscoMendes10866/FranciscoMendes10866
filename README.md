@@ -31,6 +31,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff" />
   <img alt="MobX" src="https://img.shields.io/badge/-MobX-FF7102?style=flat-square&logo=mobx&logoColor=fff" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
 </p>
 
 <h3>Statistics and Projects 🥖</h3>
