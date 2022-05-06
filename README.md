@@ -25,7 +25,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="WindiCSS" src="https://img.shields.io/badge/-Windi_CSS-48B0F1?style=flat-square&logo=windi-css&logoColor=fff" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=fff" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff" />
