@@ -19,7 +19,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=fff" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=fff" />
 </p>
 
 <p>
