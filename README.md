@@ -17,6 +17,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/franc
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
 </p>
 
