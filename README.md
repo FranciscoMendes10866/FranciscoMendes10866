@@ -1,4 +1,4 @@
-Hey! My name is <strong>Francisco</strong> and my goal is to dive into the adventure of learning and personal growth. As a <strong>Software Developer</strong>, my focus is to truly understand what our customers need and turn those insights into real-world solutions.
+Hey! My name is <strong>Francisco</strong> and my goal is to dive into the adventure of learning and personal growth. As a <strong>Software Developer</strong>, my focus is to understand what our customers need and turn those insights into real-world solutions.
 
 Whether it's building sophisticated front-end features with React or tackling back-end challenges using Node.js/TypeScript, I love creating experiences that truly resonate with users, making their journey better.
 
